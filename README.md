@@ -69,13 +69,13 @@ Tallahassee, FL
 *Undergraduate Researcher & Programmer*                                            
 August 2016 – March 2017
 
-- Proved that the Binary Tree data structure have a Tamari (Weak) ordering. Publication 
+- Proved that the Binary Tree data structure has a Tamari (Weak) ordering. Publication 
 - Lead meeting 1-2 times a week for project management and weekly review sessions. 
 
 **SKILLS & ACTIVITIES**
 
 **Languges**: Python, JavaScript  
 
-**Experience with**: C/C++, PHP, MATLAB, React, Node.js 
+**Experience with**: C/C++, PHP, React, Node.js 
 
 **Activities**: STEM Mentoring Program, Vice President of Robotics Club (MDC)
