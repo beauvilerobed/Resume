@@ -1,8 +1,8 @@
-## Robed Beauvile
+# Robed Beauvile
 
 Orlando, Fl · 8503540565 · robedbeauvile@gmail.com
 
-**EDUCATION** 
+## EDUCATION
 
 **University of Pittsburgh**                                                           Pittsburgh, PA 
 ***Master's Degree** in **Applied Mathematics***  
@@ -20,10 +20,9 @@ Relevant Courses: Object Oriented in C++, Graph Theory, Statistics and Probabili
 
 Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude 
 
-**PROJECTS & EXTRACURRICULARS**
+## PROJECTS & EXTRACURRICULARS
 
-**Analysis of Algorithms Collection** 
-
+**Analysis of Algorithms and Data Structures** 
 *Coursera E-learning*                                               
 
 - Solved and coded 50+ problems with 725+ test files for Stanford University’s and UCS’s Coursera Series. 
@@ -31,25 +30,23 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
-
 *University of Pittsburgh*                                                      
 
 - Invited as the special guest speaker for 2 seminars in relational databases and its relation to set theory, 15 attendees. 
 - Designed a database to provide an example of SQL relational databases for the 2nd seminar. 
 **Tools:** MySQL, PHP, Microsoft Office 
 
-**AI Calculus Tutor Bot** 
-
+**A.I. Calculus Tutor Bot** 
 *E-learning Application*                                                             
 
 - Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
-**WORK EXPERIENCE**
+## WORK EXPERIENCE
 
 **BlueToad Inc.**        
 Orlando, FL 
-*Web Developer (Front End)*            
+*Web Developer ( Front End )*            
 August 2020 – October 2020
 
 - Tested, debugged, and built code that works across multiple browsers and digital platforms. 
@@ -72,7 +69,7 @@ August 2016 – March 2017
 - Proved that the Binary Tree data structure has a Tamari (Weak) ordering. Publication 
 - Lead meeting 1-2 times a week for project management and weekly review sessions. 
 
-**SKILLS & ACTIVITIES**
+## SKILLS & ACTIVITIES
 
 **Languges**: Python, JavaScript  
 
