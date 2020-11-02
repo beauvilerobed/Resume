@@ -28,15 +28,15 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 *Coursera E-learning*                                               
 
-- Solved and coded 50+ problems with 725+ test files for Stanford University’s and UCS’s Coursera Series. 
-- Utilized appropriate data structures and algorithms e.g. graphs and breath-first search to program Dijkstra’s shortest path. 
+- Solved, analyzed, and coded 50+ problems with 725+ test files from Stanford University’s and UCS’s Coursera Series. 
+- Utilized appropriate data structures like graphs and queues to program algorithms such as Dijkstra’s shortest path.
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
 
 *University of Pittsburgh*                                                      
 
-- Invited as the special guest speaker for 2 seminars in relational databases and its relation to set theory, 15 attendees. 
+- Invited as the special guest speaker for 2 seminars in relational databases and its relation to set theory, 12 attendees. 
 - Designed a database to provide an example of SQL relational databases for the 2nd seminar. 
 **Tools:** MySQL, PHP, Microsoft Office 
 
@@ -44,7 +44,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 *E-learning Application*                                                             
 
-- Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
+- Launched a fullstack Django application with an integrated retrieval based chatbot API with 20+ intents. 
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
 ## WORK EXPERIENCE
@@ -78,7 +78,6 @@ Tallahassee, FL
 August 2016 – March 2017
 
 - Proved that the Binary Tree data structure has a Tamari (Weak) ordering. Publication 
-- Lead meeting 1-2 times a week for project management and weekly review sessions. 
 
 ## SKILLS & ACTIVITIES
 
