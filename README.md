@@ -30,6 +30,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 - Solved, analyzed, and coded 50+ problems with 725+ test files from Stanford University’s and UCS’s Coursera Series. 
 - Utilized appropriate data structures like graphs and queues to program algorithms such as Dijkstra’s shortest path.
+
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
@@ -46,6 +47,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 *E-learning Application*                                                             
 
 - Launched a fullstack Django application with an integrated retrieval based chatbot API with 20+ intents. 
+
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
 ## WORK EXPERIENCE
