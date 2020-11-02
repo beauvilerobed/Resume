@@ -1,6 +1,6 @@
-**Robed Beauvile**
+## Robed Beauvile
 
-Orlando, Fl · 8503540565 · robedbeauvile@gmail.com · github.com/beauvilerobed linkedin.com/in/robed-beauvil/ 
+Orlando, Fl · 8503540565 · robedbeauvile@gmail.com
 
 **EDUCATION** 
 
@@ -45,7 +45,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 - Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
-**WORK EXPERIENCE** ![](Robed%20Beauvile%20Resume.003.png)
+**WORK EXPERIENCE**
 
 **BlueToad Inc.**        
 Orlando, FL 
