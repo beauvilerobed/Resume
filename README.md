@@ -28,14 +28,8 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 *Coursera E-learning*                                               
 
-<<<<<<< HEAD
 - Solved, analyzed, and coded 50+ problems with 725+ test files from Stanford University’s and UCS’s Coursera Series. 
 - Utilized appropriate data structures like graphs and queues to program algorithms such as Dijkstra’s shortest path.
-=======
-- Solved and coded 50+ problems with 725+ test files for Stanford University’s and UCS’s Coursera Series. 
-- Utilized appropriate data structures and algorithms e.g. graphs and breath-first search to program Dijkstra’s shortest path. 
-
->>>>>>> 590a25f103d20206cda828f033283d5c72df1287
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
