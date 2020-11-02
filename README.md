@@ -45,12 +45,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 *E-learning Application*                                                             
 
-<<<<<<< HEAD
 - Launched a fullstack Django application with an integrated retrieval based chatbot API with 20+ intents. 
-=======
-- Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
-
->>>>>>> 590a25f103d20206cda828f033283d5c72df1287
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
 ## WORK EXPERIENCE
