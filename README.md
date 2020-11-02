@@ -30,6 +30,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 - Solved and coded 50+ problems with 725+ test files for Stanford University’s and UCS’s Coursera Series. 
 - Utilized appropriate data structures and algorithms e.g. graphs and breath-first search to program Dijkstra’s shortest path. 
+
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
@@ -38,6 +39,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 - Invited as the special guest speaker for 2 seminars in relational databases and its relation to set theory, 15 attendees. 
 - Designed a database to provide an example of SQL relational databases for the 2nd seminar. 
+
 **Tools:** MySQL, PHP, Microsoft Office 
 
 **A.I. Calculus Tutor Bot** 
@@ -45,6 +47,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 *E-learning Application*                                                             
 
 - Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
+
 **Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
 
 ## WORK EXPERIENCE
