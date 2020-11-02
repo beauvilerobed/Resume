@@ -23,6 +23,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 ## PROJECTS & EXTRACURRICULARS
 
 **Analysis of Algorithms and Data Structures** 
+
 *Coursera E-learning*                                               
 
 - Solved and coded 50+ problems with 725+ test files for Stanford University’s and UCS’s Coursera Series. 
@@ -30,6 +31,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 **Tools:** Python, unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
+
 *University of Pittsburgh*                                                      
 
 - Invited as the special guest speaker for 2 seminars in relational databases and its relation to set theory, 15 attendees. 
@@ -37,6 +39,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 **Tools:** MySQL, PHP, Microsoft Office 
 
 **A.I. Calculus Tutor Bot** 
+
 *E-learning Application*                                                             
 
 - Launched a web responsive Django application and engineered a retrieval based chatbot API with 20+ intents. 
@@ -45,15 +48,19 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 ## WORK EXPERIENCE
 
 **BlueToad Inc.**        
+
 Orlando, FL 
-*Web Developer ( Front End )*            
+
+*Junior Frontend Developer*            
 August 2020 – October 2020
 
 - Tested, debugged, and built code that works across multiple browsers and digital platforms. 
 - Involved in the development and implementation of web technologies that executed front-end interfaces. 
 
 **University of Pittsburgh**    
+
 Pittsburgh, PA 
+
 *Graduate Teaching Fellow  & Lecturer*            
 September 2018 – June 2020
 
@@ -62,7 +69,9 @@ September 2018 – June 2020
 - Composed and presented course material to 50+ students in 6 weeks, achieved a 93% passing. 
 
 **Florida State University** 
+
 Tallahassee, FL 
+
 *Undergraduate Researcher & Programmer*                                            
 August 2016 – March 2017
 
