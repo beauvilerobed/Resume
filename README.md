@@ -42,7 +42,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 
 **Tools:** MySQL, PHP, Microsoft Office 
 
-**A.I. Calculus Tutor Bot** 
+**Calculus Calculator with Chatbot API** 
 
 *E-learning Application*                                                             
 
