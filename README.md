@@ -28,7 +28,7 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 [Github](https://github.com/beauvilerobed/algorithms-and-data-structures)
 *Coursera E-learning*                                               
 
-- Analyzed and completed 50+ problems with 725+ test files from Stanford University and UCS Coursera Series.
+- Analyzed and completed 50+ problems with 725+ test files from Stanford University and UCS course.
 - Constructed data structures including graphs for algorithms such as Dijkstra’s shortest path, passed 100% of tests.
 
 **Tools:** Python, unittest, JavaScript, QUnit API 
