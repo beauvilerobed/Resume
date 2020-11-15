@@ -9,18 +9,14 @@ Orlando, Fl · 8503540565 · robedbeauvile@gmail.com
 ***Master's Degree** in **Applied Mathematics***  
 Cumulative GPA: 3.83/4.0 
 
-Relevant Courses: Programming with Python, Javascript Programming, Unix Tools, Linear Algebra and Matrices
-
-Honors: Dean’s List Scholar, K. Leroy Irvis Fellowship, Magna Cum Laude 
-
 **Florida State University**                                         Tallahassee, FL 
 
 ***Bachelor’s Degree** in **Mathematics***                                                                            
 Cumulative GPA: 3.9/4.0 
 
-Relevant Courses: Fundamentals in Computer Science, Object Oriented in C++, Graph Theory, Statistics and Probability
-
-Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude 
+**Relevant Courses**: Fundamentals in Computer Science, Object Oriented in C++, Statistics, Unix Tools, Linear Algebra and Matrices
+**Honors**: President’s & Dean’s List, SSF Scholarship Recipient, Summa Cum Laude, Magna Cum Laude, K. Leroy Irvis Fellowship
+**Activities**: STEM Mentoring Program, Vice President of Robotics Club (MDC)
 
 ## PROJECTS & EXTRACURRICULARS
 
@@ -31,10 +27,10 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 - Analyzed and completed 50+ problems with 725+ test files from Stanford University and UCS course.
 - Constructed data structures including graphs for algorithms such as Dijkstra’s shortest path, passed 100% of tests.
 
-**Tools:** Python, unittest, JavaScript, QUnit API 
+**Tools:** Python3, Unittest, JavaScript, QUnit API 
 
 **Relational Databases & Set Theory Webinar** 
-[Github](https://github.com/beauvilerobed/learn-SQL-using-set-theory-seminar)  | [Talk1](https://pitt.zoom.us/rec/play/vpB5Ju6hrzI3HNadswSDBqctW9W8fams0yEa8vYPmk6wB3gGO1H0N7pHYbBk9jUj4awd6dVPRweaSm8y?startTime=1588795106000&_x_zm_rtaid=bp79UOdnQVuamy3OCN4kYA.1590750115444.5c8cc25b682ee9418e7b3c1b891685f8&_x_zm_rhtaid=897/) | [Talk2](https://pitt.zoom.us/rec/play/u5R_dbz--Do3Gd2X4gSDU_R9W9W_LPqs1SNM__IOzEfgW3ZRZAWgY7QbM7ZsjCo61KohPPaTmdLMf2oU?startTime=1588968239000&_x_zm_rtaid=bp79UOdnQVuamy3OCN4kYA.1590750115444.5c8cc25b682ee9418e7b3c1b891685f8&_x_zm_rhtaid=897) 	
+[Github](https://github.com/beauvilerobed/learn-SQL-using-set-theory-seminar)  ∙ [Talk1](https://pitt.zoom.us/rec/play/vpB5Ju6hrzI3HNadswSDBqctW9W8fams0yEa8vYPmk6wB3gGO1H0N7pHYbBk9jUj4awd6dVPRweaSm8y?startTime=1588795106000&_x_zm_rtaid=bp79UOdnQVuamy3OCN4kYA.1590750115444.5c8cc25b682ee9418e7b3c1b891685f8&_x_zm_rhtaid=897/) ∙ [Talk2](https://pitt.zoom.us/rec/play/u5R_dbz--Do3Gd2X4gSDU_R9W9W_LPqs1SNM__IOzEfgW3ZRZAWgY7QbM7ZsjCo61KohPPaTmdLMf2oU?startTime=1588968239000&_x_zm_rtaid=bp79UOdnQVuamy3OCN4kYA.1590750115444.5c8cc25b682ee9418e7b3c1b891685f8&_x_zm_rhtaid=897) 	
 *University of Pittsburgh*                                                      
 
 - Executed 2 seminar speaking events in relational databases, 12 attendees.
@@ -43,12 +39,21 @@ Honors: President’s List Scholar, SSF Scholarship Recipient, Summa Cum Laude
 **Tools:** MySQL, PHP, Microsoft Office 
 
 **Calculus Calculator with Chatbot API** 
-[Github](https://github.com/beauvilerobed/calculus-tutor) | [Website](https://calctutor123.herokuapp.com/)
+[Github](https://github.com/beauvilerobed/calculus-tutor) ∙ [Website](https://calctutor123.herokuapp.com/)
 *E-learning Application*                                                             
 
 - Launched and hosted a fullstack Django application with an integrated retrieval based chatbot API with 20+ intents. 
 
-**Tools:** Python, JavaScript, NLTK, Tensorflow, SQLite Database** 
+**Tools:**: Python3, HTML5, CSS3, NLTK, TensorFlow, Keras, JSON
+
+**Calculus Calculator with Chatbot API** 
+[Github](https://github.com/beauvilerobed/calculus-tutor) ∙ [Website](https://calctutor123.herokuapp.com/)
+*E-learning Application*                                                             
+
+- Deployed a responsive multiply platform developer portfolio on Github pages.
+
+**Tools:** ReactJs, Node.js, Git, HTML5, CSS3, SCSS
+
 
 ## WORK EXPERIENCE
 
@@ -85,8 +90,6 @@ August 2016 – March 2017
 
 ## SKILLS & ACTIVITIES
 
-**Languges**: Python, JavaScript  
+**Languges**: Python3, JavaScript (ES6)  
 
-**Experience with**: C/C++, PHP, React, Node.js 
-
-**Activities**: STEM Mentoring Program, Vice President of Robotics Club (MDC)
+**Experience with**: C/C++, React, Node.js, HTML5, CSS3, SCSS, PHP
