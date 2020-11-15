@@ -48,8 +48,8 @@ Cumulative GPA: 3.9/4.0
 
 **Tools:**: Python3, HTML5, CSS3, NLTK, TensorFlow, Keras, JSON
 
-**Calculus Calculator with Chatbot API** 
-[Github](https://github.com/beauvilerobed/calculus-tutor) ∙ [Website](https://calctutor123.herokuapp.com/)
+**Personal Website** 
+[Github](https://github.com/beauvilerobed/portfolio) ∙ [Website](https://beauvilerobed.github.io/portfolio/)
 *E-learning Application*                                                             
 
 - Deployed a responsive multiply platform developer portfolio on Github pages.
