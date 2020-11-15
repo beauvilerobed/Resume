@@ -15,7 +15,9 @@ Cumulative GPA: 3.83/4.0
 Cumulative GPA: 3.9/4.0 
 
 **Relevant Courses**: Fundamentals in Computer Science, Object Oriented in C++, Statistics, Unix Tools, Linear Algebra and Matrices
+
 **Honors**: President’s & Dean’s List, SSF Scholarship Recipient, Summa Cum Laude, Magna Cum Laude, K. Leroy Irvis Fellowship
+
 **Activities**: STEM Mentoring Program, Vice President of Robotics Club (MDC)
 
 ## PROJECTS & EXTRACURRICULARS
